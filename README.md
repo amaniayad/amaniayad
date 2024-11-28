@@ -8,6 +8,7 @@ A Final Year Computer Science Student at @ESI-SBA, specialized in AI and Data Sc
 - 👯 I’m looking for a PFE internship
 - 📫 How to reach me: a.ayad@esi-sba.dz
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayad-amani-53b8062ab/)
+  
 ---
 
 ## 💻 Projects
@@ -21,6 +22,5 @@ A Final Year Computer Science Student at @ESI-SBA, specialized in AI and Data Sc
 ### Backend Development  
 - [All In One E-commerce App](https://github.com/amaniayad/Backend)
 
-### Frinten Development  
+### Frontend Development  
 - [DZ Trash Free](https://github.com/amaniayad/DZ-Trash-Free)
----
