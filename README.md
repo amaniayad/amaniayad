@@ -12,18 +12,18 @@ A Final Year Computer Science Student at @ESI-SBA, specialized in AI and Data Sc
 ## 💻 Projects
 
 ### AI  
-- [Automobile Damage Classification App](#): Built an application for a datathon that classifies accident damages to assist insurance companies.  
-- [Python Code Debugging with Genetic Algorithms](#): Designed a system that corrects logical errors in Python code using genetic algorithms and Spectrum-Based Fault Localization (SBFL).  
-- [Sudoku Solver](#): Developed a solution for solving Sudoku puzzles using genetic algorithms.  
-
+- [Interactive PDF Chat Application with Conversational AI](https://github.com/amaniayad/Mini-Project-NLP)
+- [Early Detection of Alzheimer's Disease using LSTM and CNN](https://github.com/amaniayad/early_detection_Alzheimer_disease)
+- [Genetic Programming for python Code Correction](https://github.com/amaniayad/project_2cs)
+- [Flight Delay Prediction Using Machine Learning](https://github.com/amaniayad/Mini-Project-ML)
 ### Security  
-- [Network Security Tool](#): Created a tool for monitoring and analyzing network vulnerabilities.  
+- [Network Security Tool](https://github.com/your-username/network-security-tool): Created a tool for monitoring and analyzing network vulnerabilities.  
 
 ### Backend Development  
-- [Inventory Management System](#): Developed a backend system for tracking inventory in a retail environment using Flask and PostgreSQL.  
+- [Eccomerce](https://github.com/your-username/inventory-management): Developed a backend system for tracking inventory in a retail environment using Flask and PostgreSQL.  
 
 ### Frontend Development  
-- [Interactive Portfolio Website](#): Designed and developed a personal portfolio website using React and Tailwind CSS.  
-- [E-Commerce Web Interface](#): Created an intuitive user interface for an online store with real-time cart and checkout features.  
+- [Interactive Portfolio Website](https://your-portfolio-site.com): Designed and developed a personal portfolio website using React and Tailwind CSS.  
+- [E-Commerce Web Interface](https://github.com/your-username/e-commerce-interface): Created an intuitive user interface for an online store with real-time cart and checkout features.  
 
 ---
