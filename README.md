@@ -1,15 +1,12 @@
 ## Hi there, I am Amani 👋
 
----
-A Final Year Computer Science Student at @ESI-SBA, specialized in AI and Data Science
+**A Final Year Computer Science Student at @ESI-SBA, specialized in AI and Data Science**
 
 - 🔭 I’m currently working on A Graph Neural Network for Recommender Systems. 
 - 🌱 I’m currently learning GNNs and Reinforcement Learning
 - 👯 I’m looking for a PFE internship
 - 📫 How to reach me: a.ayad@esi-sba.dz
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayad-amani-53b8062ab/)
-  
----
 
 ## 💻 Projects
 
