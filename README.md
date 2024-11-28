@@ -1,6 +1,6 @@
 ## Hi there,I am Amani 👋
 
-<!--
+---
 A Final Year Computer Science Student at @ESI-SBA, specialized in AI and Data Science
 
 - 🔭 I’m currently working on A Graph Neural Network for Recommender Systems. 
